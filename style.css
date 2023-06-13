@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  text-align: center;
+  font-size: 6rem;
+  border: 5px solid black;
+  background-color: #99edb5;
+  padding: 10px;
+}
+.container .child {
+  width: 100px;
+  height: 100px;
+  background-color: darkorange;
+  border: 2px solid black;
+}/*# sourceMappingURL=style.css.map */
